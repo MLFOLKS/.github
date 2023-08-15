@@ -8,14 +8,13 @@
       align="center"
       alt="Mage"
       src="https://github.com/MLFOLKS/.github/assets/62167887/46aaa811-0c8b-445b-836d-9f216e158037"
-      style="width:100%;"
+      style="width:10%;"
     />
   </a>
 </h1>
 <p align="center">
 
-![MLFOLKS Community]((https://github.com/MLFOLKS/.github/assets/62167887/46aaa811-0c8b-445b-836d-9f216e158037))
-
+---
 [![GitHub stars](https://img.shields.io/github/stars/MLFOLKS/repository.svg?style=social)](https://github.com/MLFOLKS/repository/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/MLFOLKS/repository.svg?style=social)](https://github.com/MLFOLKS/repository/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/MLFOLKS/repository.svg)](https://github.com/MLFOLKS/repository/issues)
