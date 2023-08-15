@@ -15,11 +15,6 @@
 <p align="center">
 
 ---
-[![GitHub stars](https://img.shields.io/github/stars/MLFOLKS/repository.svg?style=social)](https://github.com/MLFOLKS/repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/MLFOLKS/repository.svg?style=social)](https://github.com/MLFOLKS/repository/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/MLFOLKS/repository.svg)](https://github.com/MLFOLKS/repository/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/MLFOLKS/repository.svg)](https://github.com/MLFOLKS/repository/pulls)
-[![GitHub license](https://img.shields.io/github/license/MLFOLKS/repository.svg)](https://github.com/MLFOLKS/repository/blob/main/LICENSE)
 
 🚀 Welcome to the MLFOLKS Community – your hub for open-source end-to-end production-ready machine learning projects! We're thrilled to have you join us on this exciting journey of innovation, collaboration, and learning.
 
