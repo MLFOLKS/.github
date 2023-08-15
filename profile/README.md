@@ -1,6 +1,20 @@
 # Welcome to MLFOLKS Community
+<h1 align="center">
+  <a
+    target="_blank"
+    href="https://github.com/MLFOLKS"
+  >
+    <img
+      align="center"
+      alt="Mage"
+      src="https://github.com/MLFOLKS/.github/assets/62167887/46aaa811-0c8b-445b-836d-9f216e158037"
+      style="width:100%;"
+    />
+  </a>
+</h1>
+<p align="center">
 
-![MLFOLKS Community]([https://your-image-url.com](https://github.com/MLFOLKS/.github/assets/62167887/46aaa811-0c8b-445b-836d-9f216e158037))
+![MLFOLKS Community]((https://github.com/MLFOLKS/.github/assets/62167887/46aaa811-0c8b-445b-836d-9f216e158037))
 
 [![GitHub stars](https://img.shields.io/github/stars/MLFOLKS/repository.svg?style=social)](https://github.com/MLFOLKS/repository/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/MLFOLKS/repository.svg?style=social)](https://github.com/MLFOLKS/repository/network/members)
